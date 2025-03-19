@@ -24,7 +24,7 @@ Styling: Bootstrap for UI
 bash
 Copy
 Edit
-git clone https://github.com/your-username/artily.git
+git clone https://github.com/your-username/E-commerce-personal-project.git
 cd artily
 2. Setup Database
 Open MySQL Workbench or phpMyAdmin
