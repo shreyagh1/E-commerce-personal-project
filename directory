@@ -1,0 +1,29 @@
+Artily/
+├── admin/
+│   ├── dashboard.php
+│   ├── add-product.php
+│   ├── edit_product.php
+│   ├── delete_product.php
+│   ├── manage_orders.php
+│   ├── manage_products.php
+│   └── login.php
+        logout.php
+├── includes/
+│   ├── connect.php          # Database connection file
+│   ├── functions.php        # Helper functions
+│   └── admin_auth.php       # Admin authentication
+├── public/
+│   ├── index.php            # Homepage with products
+│   ├── product.php          # Product detail page
+│   ├── register.php         # User registration page
+│   ├── login.php            # User login page
+│   ├── logout.php           # User logout script
+│   ├── cart.php             # Shopping cart page
+│   └── checkout.php         # Checkout page
+├── assets/
+│   ├── css/
+│   │   └── style.css        # Main styles
+│   ├── js/
+│   │   └── main.js          # JavaScript for interactions
+│   └── images/              # Product and other images
+└── README.md
