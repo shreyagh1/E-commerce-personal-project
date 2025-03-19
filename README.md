@@ -61,6 +61,11 @@ Future Enhancements:
 - Debug and improve the backend
 - Implement AJAX-based cart updates
 - Enhance UI with modern frameworks like Vue.js
+-  Wishlist Feature – Users can save products for later.
+- Reviews & Ratings – Customers can leave feedback on products.
+- Coupon Codes & Discounts – Promotional offers for users.
+- Live Chat Support – Instant help for customers.
+
 
 Contributing
 Feel free to fork this repository, create a new branch, and submit a pull request with your enhancements.
